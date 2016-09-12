@@ -56,6 +56,12 @@
       margin: 1rem 0;
     }
 
+    .inTouch {
+      display: -webkit-inline-box;
+      margin: 5%;
+
+    }
+
     ul {
       list-style: none;
       padding: 0;
