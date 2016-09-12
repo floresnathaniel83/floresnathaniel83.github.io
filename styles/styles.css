@@ -10,6 +10,11 @@
       font-size: 24px;
     }
 
+    .main {
+      border-bottom: 1px solid #000;
+
+    }
+
     body {
       font-size: 1rem;
       font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -57,7 +62,7 @@
     }
 
     a {
-      color: #44CCFF;
+      color: #510794;
     }
 
     li > a {
@@ -76,6 +81,7 @@
     h1 {
       margin: 5rem 0 0 -0.5rem;
       font-size: 2rem;
+      color: #510794;
     }
 
     h3 {
